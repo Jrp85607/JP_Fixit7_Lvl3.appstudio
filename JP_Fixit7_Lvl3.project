@@ -26,6 +26,22 @@
             "while",
             "while.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "for",
+            "for.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calc",
+            "calc.json"
+          ]
         }
       ],
       "configxml": null,
@@ -47,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "while",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
