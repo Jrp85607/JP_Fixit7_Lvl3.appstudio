@@ -14,12 +14,6 @@ etc.
 let names = ['Bob', 'Janet', 'Tom', 'Bob', 'Randy', 'Elizabeth', 'Kim', 'Nancy']
 
 
-for (y = 0; y < names.length; y++) {
-  alert(`${names[y]}`) 
+for (z = 0; z < names.length; z++) {
+  alert(`${names[z]}`) 
   }
-
-
-
-
-
-
